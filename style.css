@@ -1,0 +1,23 @@
+.A1 {
+    width:100px;
+    height:100px;
+    border:1px solid;
+    background: yellow;
+}
+.A2{
+    width:100px;
+    height:100px;
+    border:1px solid;
+    background: rgb(0, 175, 29);
+}
+.A3{
+    width:100px;
+    height:100px;
+    border:1px solid;
+    background: rgb(246, 255, 0);
+    justify-content: right;
+    
+}
+.wrapper1{
+display: flex;
+}
